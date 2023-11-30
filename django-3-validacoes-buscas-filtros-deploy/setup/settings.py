@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'clientes'
+    'clientes',    
+    'django_filters',
 ]
 
 MIDDLEWARE = [
@@ -125,3 +126,5 @@ REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 25
 }
+
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
