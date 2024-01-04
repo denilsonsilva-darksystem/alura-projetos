@@ -1,0 +1,2934 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "routers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CursoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAlunoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculadosSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializerV2",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CursoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAlunoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculadosSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializerV2",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CursoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAlunoSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculadosSerializer",
+        "importPath": "escola.serializer",
+        "description": "escola.serializer",
+        "isExtraImport": true,
+        "detail": "escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "BasicAuthentication",
+        "importPath": "rest_framework.authentication",
+        "description": "rest_framework.authentication",
+        "isExtraImport": true,
+        "detail": "rest_framework.authentication",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AlunosViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "CursosViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAluno",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculados",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlunosViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "CursosViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAluno",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculados",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlunosViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "CursosViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaViewSet",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAluno",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculados",
+        "importPath": "escola.views",
+        "description": "escola.views",
+        "isExtraImport": true,
+        "detail": "escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "method_decorator",
+        "importPath": "django.utils.decorators",
+        "description": "django.utils.decorators",
+        "isExtraImport": true,
+        "detail": "django.utils.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "cache_page",
+        "importPath": "django.views.decorators.cache",
+        "description": "django.views.decorators.cache",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.cache",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "CPF",
+        "importPath": "validate_docbr",
+        "description": "validate_docbr",
+        "isExtraImport": true,
+        "detail": "validate_docbr",
+        "documentation": {}
+    },
+    {
+        "label": "CPF",
+        "importPath": "validate_docbr",
+        "description": "validate_docbr",
+        "isExtraImport": true,
+        "detail": "validate_docbr",
+        "documentation": {}
+    },
+    {
+        "label": "CPF",
+        "importPath": "validate_docbr",
+        "description": "validate_docbr",
+        "isExtraImport": true,
+        "detail": "validate_docbr",
+        "documentation": {}
+    },
+    {
+        "label": "CPF",
+        "importPath": "validate_docbr",
+        "description": "validate_docbr",
+        "isExtraImport": true,
+        "detail": "validate_docbr",
+        "documentation": {}
+    },
+    {
+        "label": "random,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random.",
+        "description": "random.",
+        "detail": "random.",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "clientes.models",
+        "description": "clientes.models",
+        "isExtraImport": true,
+        "detail": "clientes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "clientes.models",
+        "description": "clientes.models",
+        "isExtraImport": true,
+        "detail": "clientes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "clientes.models",
+        "description": "clientes.models",
+        "isExtraImport": true,
+        "detail": "clientes.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "importPath": "clientes.models",
+        "description": "clientes.models",
+        "isExtraImport": true,
+        "detail": "clientes.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "clientes.validators",
+        "description": "clientes.validators",
+        "isExtraImport": true,
+        "detail": "clientes.validators",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteSerializer",
+        "importPath": "clientes.serializers",
+        "description": "clientes.serializers",
+        "isExtraImport": true,
+        "detail": "clientes.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "ClientesViewSet",
+        "importPath": "clientes.views",
+        "description": "clientes.views",
+        "isExtraImport": true,
+        "detail": "clientes.views",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.migrations.0001_initial",
+        "description": "api-django-3-rest-framework.escola.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Aluno',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nome', models.CharField(max_length=30)),",
+        "detail": "api-django-3-rest-framework.escola.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.migrations.0002_matricula",
+        "description": "api-django-3-rest-framework.escola.migrations.0002_matricula",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('escola', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Matricula',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('periodo', models.CharField(choices=[('M', 'Matutino'), ('V', 'Vespertino'), ('N', 'Noturno')], default='M', max_length=1)),",
+        "detail": "api-django-3-rest-framework.escola.migrations.0002_matricula",
+        "documentation": {}
+    },
+    {
+        "label": "Alunos",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.admin",
+        "description": "api-django-3-rest-framework.escola.admin",
+        "peekOfCode": "class Alunos(admin.ModelAdmin):\n    list_display = ('id', 'nome', 'rg', 'cpf', 'data_nascimento')\n    list_display_links = ('id', 'nome')\n    search_fields = ('nome',)\n    list_per_page = 20\nadmin.site.register(Aluno, Alunos)\nclass Cursos(admin.ModelAdmin):\n    list_display = ('id', 'codigo_curso', 'descricao')\n    list_display_links = ('id', 'codigo_curso')\n    search_fields = ('codigo_curso',)",
+        "detail": "api-django-3-rest-framework.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Cursos",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.admin",
+        "description": "api-django-3-rest-framework.escola.admin",
+        "peekOfCode": "class Cursos(admin.ModelAdmin):\n    list_display = ('id', 'codigo_curso', 'descricao')\n    list_display_links = ('id', 'codigo_curso')\n    search_fields = ('codigo_curso',)\nadmin.site.register(Curso, Cursos)\nclass Matriculas(admin.ModelAdmin):\n    list_display = ('id', 'aluno', 'curso', 'periodo')\n    list_display_links = ('id',)\nadmin.site.register(Matricula, Matriculas)",
+        "detail": "api-django-3-rest-framework.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Matriculas",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.admin",
+        "description": "api-django-3-rest-framework.escola.admin",
+        "peekOfCode": "class Matriculas(admin.ModelAdmin):\n    list_display = ('id', 'aluno', 'curso', 'periodo')\n    list_display_links = ('id',)\nadmin.site.register(Matricula, Matriculas)",
+        "detail": "api-django-3-rest-framework.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EscolaConfig",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.apps",
+        "description": "api-django-3-rest-framework.escola.apps",
+        "peekOfCode": "class EscolaConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'escola'",
+        "detail": "api-django-3-rest-framework.escola.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.models",
+        "description": "api-django-3-rest-framework.escola.models",
+        "peekOfCode": "class Aluno(models.Model):\n    nome = models.CharField(max_length=30)\n    rg = models.CharField(max_length=9)\n    cpf = models.CharField(max_length=11)\n    data_nascimento = models.DateField()\n    def __str__(self):\n        return self.nome\nclass Curso(models.Model):\n    NIVEL = (\n        ('B', 'Básico'),",
+        "detail": "api-django-3-rest-framework.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.models",
+        "description": "api-django-3-rest-framework.escola.models",
+        "peekOfCode": "class Curso(models.Model):\n    NIVEL = (\n        ('B', 'Básico'),\n        ('I', 'Intermediário'),\n        ('A', 'Avançado'),\n    )\n    codigo_curso = models.CharField(max_length=10)\n    descricao = models.CharField(max_length=100)\n    nivel = models.CharField(max_length=1, choices=NIVEL, blank=False, null=False, default='B')\n    def __str__(self):",
+        "detail": "api-django-3-rest-framework.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.models",
+        "description": "api-django-3-rest-framework.escola.models",
+        "peekOfCode": "class Matricula(models.Model):\n    PERIODO = (\n        ('M', 'Matutino'),\n        ('V', 'Vespertino'),\n        ('N', 'Noturno')\n    )\n    aluno = models.ForeignKey(Aluno, on_delete=models.CASCADE)\n    curso = models.ForeignKey(Curso, on_delete=models.CASCADE)\n    periodo = models.CharField(max_length=1, choices=PERIODO, blank=False, null=False, default='M')",
+        "detail": "api-django-3-rest-framework.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.serializer",
+        "description": "api-django-3-rest-framework.escola.serializer",
+        "peekOfCode": "class AlunoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'rg', 'cpf', 'data_nascimento']\nclass CursoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Curso\n        fields = '__all__'\nclass MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "api-django-3-rest-framework.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CursoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.serializer",
+        "description": "api-django-3-rest-framework.escola.serializer",
+        "peekOfCode": "class CursoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Curso\n        fields = '__all__'\nclass MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Matricula\n        exclude = []\nclass ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')",
+        "detail": "api-django-3-rest-framework.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.serializer",
+        "description": "api-django-3-rest-framework.escola.serializer",
+        "peekOfCode": "class MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Matricula\n        exclude = []\nclass ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')\n    periodo = serializers.SerializerMethodField()\n    class Meta:\n        model = Matricula\n        fields = ['curso', 'periodo']",
+        "detail": "api-django-3-rest-framework.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAlunoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.serializer",
+        "description": "api-django-3-rest-framework.escola.serializer",
+        "peekOfCode": "class ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')\n    periodo = serializers.SerializerMethodField()\n    class Meta:\n        model = Matricula\n        fields = ['curso', 'periodo']\n    def get_periodo(self,obj):\n        return obj.get_periodo_display()\nclass ListaAlunosMatriculadosSerializer(serializers.ModelSerializer):\n    aluno_nome = serializers.ReadOnlyField(source='aluno.nome')",
+        "detail": "api-django-3-rest-framework.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculadosSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.serializer",
+        "description": "api-django-3-rest-framework.escola.serializer",
+        "peekOfCode": "class ListaAlunosMatriculadosSerializer(serializers.ModelSerializer):\n    aluno_nome = serializers.ReadOnlyField(source='aluno.nome')\n    class Meta:\n        model = Matricula\n        fields = ['aluno_nome']",
+        "detail": "api-django-3-rest-framework.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunosViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.views",
+        "description": "api-django-3-rest-framework.escola.views",
+        "peekOfCode": "class AlunosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os alunos e alunas\"\"\"\n    queryset = Aluno.objects.all()\n    serializer_class = AlunoSerializer\n    authentication_classes = [BasicAuthentication]\n    permission_classes = [IsAuthenticated]\nclass CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"\n    queryset = Curso.objects.all()\n    serializer_class = CursoSerializer    ",
+        "detail": "api-django-3-rest-framework.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "CursosViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.views",
+        "description": "api-django-3-rest-framework.escola.views",
+        "peekOfCode": "class CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"\n    queryset = Curso.objects.all()\n    serializer_class = CursoSerializer    \n    authentication_classes = [BasicAuthentication]\n    permission_classes = [IsAuthenticated]\nclass MatriculaViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todas as matriculas\"\"\"\n    queryset = Matricula.objects.all()\n    serializer_class = MatriculaSerializer",
+        "detail": "api-django-3-rest-framework.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.views",
+        "description": "api-django-3-rest-framework.escola.views",
+        "peekOfCode": "class MatriculaViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todas as matriculas\"\"\"\n    queryset = Matricula.objects.all()\n    serializer_class = MatriculaSerializer\n    authentication_classes = [BasicAuthentication]\n    permission_classes = [IsAuthenticated]\nclass ListaMatriculasAluno(generics.ListAPIView):\n    \"\"\"Listando as matrículas de um aluno ou aluna\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(aluno_id=self.kwargs['pk'])",
+        "detail": "api-django-3-rest-framework.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAluno",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.views",
+        "description": "api-django-3-rest-framework.escola.views",
+        "peekOfCode": "class ListaMatriculasAluno(generics.ListAPIView):\n    \"\"\"Listando as matrículas de um aluno ou aluna\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(aluno_id=self.kwargs['pk'])\n        return queryset\n    serializer_class = ListaMatriculasAlunoSerializer\n    authentication_classes = [BasicAuthentication]\n    permission_classes = [IsAuthenticated]\nclass ListaAlunosMatriculados(generics.ListAPIView):\n    \"\"\"Listando os alunos ou alunas de uma matricula\"\"\"",
+        "detail": "api-django-3-rest-framework.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculados",
+        "kind": 6,
+        "importPath": "api-django-3-rest-framework.escola.views",
+        "description": "api-django-3-rest-framework.escola.views",
+        "peekOfCode": "class ListaAlunosMatriculados(generics.ListAPIView):\n    \"\"\"Listando os alunos ou alunas de uma matricula\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(curso_id=self.kwargs['pk'])\n        return queryset\n    serializer_class = ListaAlunosMatriculadosSerializer\n    authentication_classes = [BasicAuthentication]\n    permission_classes = [IsAuthenticated]",
+        "detail": "api-django-3-rest-framework.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.asgi",
+        "description": "api-django-3-rest-framework.setup.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "api-django-3-rest-framework.setup.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-c)fox5w_1c7g=@nn8%&zktx=o3riwv1+2yujyuq5brb17_8-pt'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-c)fox5w_1c7g=@nn8%&zktx=o3riwv1+2yujyuq5brb17_8-pt'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'escola'\n]",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'setup.urls'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "ROOT_URLCONF = 'setup.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'setup.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'pt-br'\nTIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "TIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.settings",
+        "description": "api-django-3-rest-framework.setup.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "api-django-3-rest-framework.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.urls",
+        "description": "api-django-3-rest-framework.setup.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register('alunos', AlunosViewSet, basename='Alunos')\nrouter.register('cursos', CursosViewSet, basename='Cursos')\nrouter.register('matriculas', MatriculaViewSet, basename='Matriculas')\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls)),\n    path('aluno/<int:pk>/matriculas/', ListaMatriculasAluno.as_view()),\n    path('curso/<int:pk>/matriculas/', ListaAlunosMatriculados.as_view())\n]",
+        "detail": "api-django-3-rest-framework.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.urls",
+        "description": "api-django-3-rest-framework.setup.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls)),\n    path('aluno/<int:pk>/matriculas/', ListaMatriculasAluno.as_view()),\n    path('curso/<int:pk>/matriculas/', ListaAlunosMatriculados.as_view())\n]",
+        "detail": "api-django-3-rest-framework.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-rest-framework.setup.wsgi",
+        "description": "api-django-3-rest-framework.setup.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "api-django-3-rest-framework.setup.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "api-django-3-rest-framework.manage",
+        "description": "api-django-3-rest-framework.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'setup.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "api-django-3-rest-framework.manage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0001_initial",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Aluno',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nome', models.CharField(max_length=30)),",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0002_aluno_celular",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0002_aluno_celular",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('escola', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='aluno',\n            name='celular',\n            field=models.CharField(default='', max_length=11),\n        ),",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0002_aluno_celular",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0003_aluno_foto",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0003_aluno_foto",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('escola', '0002_aluno_celular'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='aluno',\n            name='foto',\n            field=models.ImageField(blank=True, upload_to=''),\n        ),",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.migrations.0003_aluno_foto",
+        "documentation": {}
+    },
+    {
+        "label": "Alunos",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "peekOfCode": "class Alunos(admin.ModelAdmin):\n    list_display = ('id','nome', 'rg', 'cpf', 'data_nascimento')\n    list_display_links = ('id', 'nome')\n    search_fields = ('nome',)\n    list_per_page = 20\nadmin.site.register(Aluno, Alunos)\nclass Cursos(admin.ModelAdmin):\n    list_display = ('id', 'codigo_curso', 'descricao')\n    list_display_links = ('id', 'codigo_curso')\n    search_fields = ('codigo_curso',)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Cursos",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "peekOfCode": "class Cursos(admin.ModelAdmin):\n    list_display = ('id', 'codigo_curso', 'descricao')\n    list_display_links = ('id', 'codigo_curso')\n    search_fields = ('codigo_curso',)\nadmin.site.register(Curso, Cursos)\nclass Matriculas(admin.ModelAdmin):\n    list_display = ('id', 'aluno', 'curso', 'periodo')\n    list_display_links = ('id', )\nadmin.site.register(Matricula, Matriculas)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Matriculas",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "peekOfCode": "class Matriculas(admin.ModelAdmin):\n    list_display = ('id', 'aluno', 'curso', 'periodo')\n    list_display_links = ('id', )\nadmin.site.register(Matricula, Matriculas)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EscolaConfig",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.apps",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.apps",
+        "peekOfCode": "class EscolaConfig(AppConfig):\n    name = 'escola'",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "peekOfCode": "class Aluno(models.Model):\n    nome = models.CharField(max_length=30)\n    rg = models.CharField(max_length=9)\n    cpf = models.CharField(max_length=11)\n    data_nascimento = models.DateField()\n    celular = models.CharField(max_length=11, default=\"\")\n    foto = models.ImageField(blank=True)\n    def __str__(self):\n        return self.nome\nclass Curso(models.Model):",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "peekOfCode": "class Curso(models.Model):\n    NIVEL = (\n        ('B', 'Básico'),\n        ('I', 'Intermediário'),\n        ('A', 'Avançado')\n    )\n    codigo_curso = models.CharField(max_length=10)\n    descricao = models.CharField(max_length=100)\n    nivel = models.CharField(max_length=1, choices=NIVEL, blank=False, null=False,default='B')\n    def __str__(self):",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "peekOfCode": "class Matricula(models.Model):\n    PERIODO = (\n        ('M', 'Matutino'),\n        ('V', 'Vespertino'),\n        ('N', 'Noturno')\n    )\n    aluno = models.ForeignKey(Aluno, on_delete=models.CASCADE)\n    curso = models.ForeignKey(Curso, on_delete=models.CASCADE)\n    periodo = models.CharField(max_length=1, choices=PERIODO, blank=False, null=False,default='M')",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "peekOfCode": "class AlunoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'rg', 'cpf', 'data_nascimento', 'foto']\nclass CursoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Curso\n        fields = '__all__'\nclass MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CursoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "peekOfCode": "class CursoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Curso\n        fields = '__all__'\nclass MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Matricula\n        exclude = []\nclass ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "peekOfCode": "class MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Matricula\n        exclude = []\nclass ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')\n    periodo = serializers.SerializerMethodField()\n    class Meta:\n        model = Matricula\n        fields = ['curso', 'periodo']",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAlunoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "peekOfCode": "class ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')\n    periodo = serializers.SerializerMethodField()\n    class Meta:\n        model = Matricula\n        fields = ['curso', 'periodo']\n    def get_periodo(self, obj):\n        return obj.get_periodo_display()\nclass ListaAlunosMatriculadosSerializer(serializers.ModelSerializer):\n    aluno_nome = serializers.ReadOnlyField(source='aluno.nome')",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculadosSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "peekOfCode": "class ListaAlunosMatriculadosSerializer(serializers.ModelSerializer):\n    aluno_nome = serializers.ReadOnlyField(source='aluno.nome')\n    class Meta:\n        model = Matricula\n        fields = ['aluno_nome']\nclass AlunoSerializerV2(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'celular', 'rg', 'cpf', 'data_nascimento', 'foto']",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializerV2",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "peekOfCode": "class AlunoSerializerV2(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'celular', 'rg', 'cpf', 'data_nascimento', 'foto']",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunosViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "peekOfCode": "class AlunosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os alunos e alunas\"\"\"\n    queryset = Aluno.objects.all()\n    def get_serializer_class(self):\n        if self.request.version == 'v2':\n            return AlunoSerializerV2\n        else:\n            return AlunoSerializer    \nclass CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "CursosViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "peekOfCode": "class CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"\n    queryset = Curso.objects.all()\n    serializer_class = CursoSerializer\n    def create(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            response = Response(serializer.data, status=status.HTTP_201_CREATED)\n            id = str(serializer.data['id'])",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "peekOfCode": "class MatriculaViewSet(viewsets.ModelViewSet):\n    \"\"\"Listando todas as matrículas\"\"\"\n    queryset = Matricula.objects.all()\n    serializer_class = MatriculaSerializer\n    http_method_names = ['get', 'post', 'put', 'path']\n    @method_decorator(cache_page(20))\n    def dispatch(self, *args, **kwargs):\n        return super(MatriculaViewSet, self).dispatch(*args, **kwargs)\nclass ListaMatriculasAluno(generics.ListAPIView):\n    \"\"\"Listando as matrículas de um aluno ou aluna\"\"\"",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAluno",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "peekOfCode": "class ListaMatriculasAluno(generics.ListAPIView):\n    \"\"\"Listando as matrículas de um aluno ou aluna\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(aluno_id=self.kwargs['pk'])\n        return queryset\n    serializer_class = ListaMatriculasAlunoSerializer\nclass ListaAlunosMatriculados(generics.ListAPIView):\n    \"\"\"Listando alunos e alunas matriculados em um curso\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(curso_id=self.kwargs['pk'])",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculados",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "peekOfCode": "class ListaAlunosMatriculados(generics.ListAPIView):\n    \"\"\"Listando alunos e alunas matriculados em um curso\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(curso_id=self.kwargs['pk'])\n        return queryset\n    serializer_class = ListaAlunosMatriculadosSerializer",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.asgi",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'we2q@@2p30+=^#(xbgl7e@3+r2dt+zmf#us2m$ix=q&n+=y-z$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "SECRET_KEY = 'we2q@@2p30+=^#(xbgl7e@3+r2dt+zmf#us2m$ix=q&n+=y-z$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'escola',\n    'corsheaders',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',    \n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "ROOT_URLCONF = 'setup.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'setup.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'pt-br'\nTIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "TIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'\nREST_FRAMEWORK = {",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'\n    # ],",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media_root')\nMEDIA_URL = '/media/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'\n    # ],\n    'DEFAULT_THROTTLE_CLASSES': [",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'\n    # ],\n    'DEFAULT_THROTTLE_CLASSES': [\n        'rest_framework.throttling.AnonRateThrottle',",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'\n    # ],\n    'DEFAULT_THROTTLE_CLASSES': [\n        'rest_framework.throttling.AnonRateThrottle',\n        # 'rest_framework.throttling.UserRateThrottle'",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n]",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register('alunos', AlunosViewSet, basename='Alunos')\nrouter.register('cursos', CursosViewSet, basename='Cursos')\nrouter.register('matriculas', MatriculaViewSet, basename='Matriculas')\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls) ),\n    path('alunos/<int:pk>/matriculas/', ListaMatriculasAluno.as_view()),\n    path('cursos/<int:pk>/matriculas/', ListaAlunosMatriculados.as_view())\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls) ),\n    path('alunos/<int:pk>/matriculas/', ListaMatriculasAluno.as_view()),\n    path('cursos/<int:pk>/matriculas/', ListaAlunosMatriculados.as_view())\n] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.wsgi",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.manage",
+        "description": "api-django-3-testes-seguranca-lapidacoes.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'setup.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.manage",
+        "documentation": {}
+    },
+    {
+        "label": "criando_alunos",
+        "kind": 2,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.seed",
+        "description": "api-django-3-testes-seguranca-lapidacoes.seed",
+        "peekOfCode": "def criando_alunos(quantidade_de_pessoas):\n    fake = Faker('pt_BR')\n    Faker.seed(10)\n    for _ in range(quantidade_de_pessoas):\n        cpf = CPF()\n        nome = fake.name()\n        rg = \"{}{}{}{}\".format(random.randrange(10, 99),random.randrange(100, 999),random.randrange(100, 999),random.randrange(0, 9) ) \n        cpf = cpf.generate()\n        data_nascimento = fake.date_between(start_date='-18y', end_date='today')\n        a = Aluno(nome=nome,rg=rg, cpf=cpf,data_nascimento=data_nascimento)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.seed",
+        "documentation": {}
+    },
+    {
+        "label": "criando_cursos",
+        "kind": 2,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.seed",
+        "description": "api-django-3-testes-seguranca-lapidacoes.seed",
+        "peekOfCode": "def criando_cursos(quantidade_de_cursos):\n    fake = Faker('pt_BR')\n    Faker.seed(10)\n    for _ in range(quantidade_de_cursos):\n        codigo_curso = \"{}{}-{}\".format(random.choice(\"ABCDEF\"), random.randrange(10, 99),random.randrange(1, 9))\n        descs = ['Python Fundamentos', 'Python intermediário','Python Avançado', 'Python para Data Science', 'Python/React']\n        descricao = random.choice(descs)\n        descs.remove(descricao)\n        nivel = random.choice(\"BIA\")\n        c = Curso(codigo_curso=codigo_curso,descricao=descricao, nivel=nivel)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.seed",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0001_initial",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cliente',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nome', models.CharField(max_length=100)),",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0002_auto_20200804_1114",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0002_auto_20200804_1114",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('clientes', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='cliente',\n            name='cpf',\n            field=models.CharField(max_length=11),\n        ),",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0002_auto_20200804_1114",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0003_auto_20200806_1144",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0003_auto_20200806_1144",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('clientes', '0002_auto_20200804_1114'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='cliente',\n            name='cpf',\n            field=models.CharField(max_length=11, unique=True),\n        ),",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.migrations.0003_auto_20200806_1144",
+        "documentation": {}
+    },
+    {
+        "label": "Clientes",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.admin",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.admin",
+        "peekOfCode": "class Clientes(admin.ModelAdmin):\n    list_display = ('id', 'nome', 'email','cpf', 'rg', 'celular', 'ativo')\n    list_display_links = ('id', 'nome')\n    search_fields = ('nome', 'cpf', 'rg')\n    list_filter = ('ativo',)\n    list_editable = ('ativo',)\n    list_per_page = 25\n    ordering = ('nome',)\nadmin.site.register(Cliente, Clientes)",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ClientesConfig",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.apps",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.apps",
+        "peekOfCode": "class ClientesConfig(AppConfig):\n    name = 'clientes'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Cliente",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.models",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.models",
+        "peekOfCode": "class Cliente(models.Model):\n    nome = models.CharField(max_length=100)\n    email = models.EmailField(blank=False, max_length=30, )\n    cpf = models.CharField(max_length=11, unique=True)\n    rg = models.CharField(max_length=9)\n    celular = models.CharField(max_length=14)\n    ativo = models.BooleanField()\n    def __str__(self):\n        return self.nome",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.models",
+        "documentation": {}
+    },
+    {
+        "label": "ClienteSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.serializers",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.serializers",
+        "peekOfCode": "class ClienteSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Cliente\n        fields = '__all__'\n    def validate(self, data):\n        if not cpf_valido(data['cpf']):\n            raise serializers.ValidationError({ 'cpf': \"Número de CPF inválido\"})\n        if not nome_valido(data['nome']):\n            raise serializers.ValidationError({ 'nome' : \"Apenas letras neste campo\"})\n        if not rg_valido(data['rg']):",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "cpf_valido",
+        "kind": 2,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "peekOfCode": "def cpf_valido(numero_cpf):\n    cpf = CPF()\n    return cpf.validate(numero_cpf)\ndef nome_valido(nome):\n    return nome.isalpha()\ndef rg_valido(rg):\n    return len(rg) == 9\ndef celular_valido(celular):\n    \"\"\"Verifica se o celular é valido\"\"\"\n    modelo = '[0-9]{2} [0-9]{5}-[0-9]{4}'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "documentation": {}
+    },
+    {
+        "label": "nome_valido",
+        "kind": 2,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "peekOfCode": "def nome_valido(nome):\n    return nome.isalpha()\ndef rg_valido(rg):\n    return len(rg) == 9\ndef celular_valido(celular):\n    \"\"\"Verifica se o celular é valido\"\"\"\n    modelo = '[0-9]{2} [0-9]{5}-[0-9]{4}'\n    resposta = re.findall(modelo, celular)\n    return resposta",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "documentation": {}
+    },
+    {
+        "label": "rg_valido",
+        "kind": 2,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "peekOfCode": "def rg_valido(rg):\n    return len(rg) == 9\ndef celular_valido(celular):\n    \"\"\"Verifica se o celular é valido\"\"\"\n    modelo = '[0-9]{2} [0-9]{5}-[0-9]{4}'\n    resposta = re.findall(modelo, celular)\n    return resposta",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "documentation": {}
+    },
+    {
+        "label": "celular_valido",
+        "kind": 2,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "peekOfCode": "def celular_valido(celular):\n    \"\"\"Verifica se o celular é valido\"\"\"\n    modelo = '[0-9]{2} [0-9]{5}-[0-9]{4}'\n    resposta = re.findall(modelo, celular)\n    return resposta",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.validators",
+        "documentation": {}
+    },
+    {
+        "label": "ClientesViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.clientes.views",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.clientes.views",
+        "peekOfCode": "class ClientesViewSet(viewsets.ModelViewSet):\n    \"\"\"Listando clientes\"\"\"\n    queryset = Cliente.objects.all()\n    serializer_class = ClienteSerializer\n    filter_backends = [DjangoFilterBackend, filters.OrderingFilter, filters.SearchFilter]\n    ordering_fields = ['nome']\n    search_fields = ['nome', 'cpf', 'rg']\n    filterset_fields = ['ativo']",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.clientes.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.asgi",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve(strict=True).parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '(_nz-7j=$7we1y6$8i%bftxt2l_udez1ou_x7@*_x8t+(0e2lk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "SECRET_KEY = '(_nz-7j=$7we1y6$8i%bftxt2l_udez1ou_x7@*_x8t+(0e2lk'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'clientes',    \n    'django_filters',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'setup.urls'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "ROOT_URLCONF = 'setup.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'setup.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': str(BASE_DIR / 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': str(BASE_DIR / 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'pt-br'\nTIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "TIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 25",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 25\n}",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 25\n}\nDEFAULT_AUTO_FIELD = 'django.db.models.AutoField'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 25\n}\nDEFAULT_AUTO_FIELD = 'django.db.models.AutoField'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 25\n}\nDEFAULT_AUTO_FIELD = 'django.db.models.AutoField'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',\n    'PAGE_SIZE': 25\n}\nDEFAULT_AUTO_FIELD = 'django.db.models.AutoField'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.urls",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register('clientes', ClientesViewSet)\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls)),\n]",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.urls",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls)),\n]",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.setup.wsgi",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.setup.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.setup.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.manage",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'setup.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.manage",
+        "documentation": {}
+    },
+    {
+        "label": "criando_pessoas",
+        "kind": 2,
+        "importPath": "api-django-3-validacoes-buscas-filtros-deploy.populate_script",
+        "description": "api-django-3-validacoes-buscas-filtros-deploy.populate_script",
+        "peekOfCode": "def criando_pessoas(quantidade_de_pessoas):\n    fake = Faker('pt_BR')\n    Faker.seed(10)\n    for _ in range(quantidade_de_pessoas):\n        cpf = CPF()\n        nome = fake.name()\n        email = '{}@{}'.format(nome.lower(),fake.free_email_domain())\n        email = email.replace(' ', '')\n        cpf = cpf.generate()\n        rg = \"{}{}{}{}\".format(random.randrange(10, 99),random.randrange(100, 999),random.randrange(100, 999),random.randrange(0, 9) ) ",
+        "detail": "api-django-3-validacoes-buscas-filtros-deploy.populate_script",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.migrations.0001_initial",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Aluno',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('nome', models.CharField(max_length=30)),",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.migrations.0002_aluno_celular",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.migrations.0002_aluno_celular",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('escola', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='aluno',\n            name='celular',\n            field=models.CharField(default='', max_length=11),\n        ),",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.migrations.0002_aluno_celular",
+        "documentation": {}
+    },
+    {
+        "label": "Alunos",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "peekOfCode": "class Alunos(admin.ModelAdmin):\n    list_display = ('id','nome', 'rg', 'cpf', 'data_nascimento')\n    list_display_links = ('id', 'nome')\n    search_fields = ('nome',)\n    list_per_page = 20\nadmin.site.register(Aluno, Alunos)\nclass Cursos(admin.ModelAdmin):\n    list_display = ('id', 'codigo_curso', 'descricao')\n    list_display_links = ('id', 'codigo_curso')\n    search_fields = ('codigo_curso',)",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Cursos",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "peekOfCode": "class Cursos(admin.ModelAdmin):\n    list_display = ('id', 'codigo_curso', 'descricao')\n    list_display_links = ('id', 'codigo_curso')\n    search_fields = ('codigo_curso',)\nadmin.site.register(Curso, Cursos)\nclass Matriculas(admin.ModelAdmin):\n    list_display = ('id', 'aluno', 'curso', 'periodo')\n    list_display_links = ('id', )\nadmin.site.register(Matricula, Matriculas)",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "Matriculas",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "peekOfCode": "class Matriculas(admin.ModelAdmin):\n    list_display = ('id', 'aluno', 'curso', 'periodo')\n    list_display_links = ('id', )\nadmin.site.register(Matricula, Matriculas)",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.admin",
+        "documentation": {}
+    },
+    {
+        "label": "EscolaConfig",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.apps",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.apps",
+        "peekOfCode": "class EscolaConfig(AppConfig):\n    name = 'escola'",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Aluno",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "peekOfCode": "class Aluno(models.Model):\n    nome = models.CharField(max_length=30)\n    rg = models.CharField(max_length=9)\n    cpf = models.CharField(max_length=11)\n    data_nascimento = models.DateField()\n    celular = models.CharField(max_length=11, default=\"\")\n    def __str__(self):\n        return self.nome\nclass Curso(models.Model):\n    NIVEL = (",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Curso",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "peekOfCode": "class Curso(models.Model):\n    NIVEL = (\n        ('B', 'Básico'),\n        ('I', 'Intermediário'),\n        ('A', 'Avançado')\n    )\n    codigo_curso = models.CharField(max_length=10)\n    descricao = models.CharField(max_length=100)\n    nivel = models.CharField(max_length=1, choices=NIVEL, blank=False, null=False,default='B')\n    def __str__(self):",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "Matricula",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "peekOfCode": "class Matricula(models.Model):\n    PERIODO = (\n        ('M', 'Matutino'),\n        ('V', 'Vespertino'),\n        ('N', 'Noturno')\n    )\n    aluno = models.ForeignKey(Aluno, on_delete=models.CASCADE)\n    curso = models.ForeignKey(Curso, on_delete=models.CASCADE)\n    periodo = models.CharField(max_length=1, choices=PERIODO, blank=False, null=False,default='M')",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "peekOfCode": "class AlunoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'rg', 'cpf', 'data_nascimento']\nclass CursoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Curso\n        fields = '__all__'\nclass MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "CursoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "peekOfCode": "class CursoSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Curso\n        fields = '__all__'\nclass MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Matricula\n        exclude = []\nclass ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "peekOfCode": "class MatriculaSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Matricula\n        exclude = []\nclass ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')\n    periodo = serializers.SerializerMethodField()\n    class Meta:\n        model = Matricula\n        fields = ['curso', 'periodo']",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAlunoSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "peekOfCode": "class ListaMatriculasAlunoSerializer(serializers.ModelSerializer):\n    curso = serializers.ReadOnlyField(source='curso.descricao')\n    periodo = serializers.SerializerMethodField()\n    class Meta:\n        model = Matricula\n        fields = ['curso', 'periodo']\n    def get_periodo(self, obj):\n        return obj.get_periodo_display()\nclass ListaAlunosMatriculadosSerializer(serializers.ModelSerializer):\n    aluno_nome = serializers.ReadOnlyField(source='aluno.nome')",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculadosSerializer",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "peekOfCode": "class ListaAlunosMatriculadosSerializer(serializers.ModelSerializer):\n    aluno_nome = serializers.ReadOnlyField(source='aluno.nome')\n    class Meta:\n        model = Matricula\n        fields = ['aluno_nome']\nclass AlunoSerializerV2(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'celular', 'rg', 'cpf', 'data_nascimento']",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunoSerializerV2",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "peekOfCode": "class AlunoSerializerV2(serializers.ModelSerializer):\n    class Meta:\n        model = Aluno\n        fields = ['id', 'nome', 'celular', 'rg', 'cpf', 'data_nascimento']",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.serializer",
+        "documentation": {}
+    },
+    {
+        "label": "AlunosViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "peekOfCode": "class AlunosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os alunos e alunas\"\"\"\n    queryset = Aluno.objects.all()\n    def get_serializer_class(self):\n        if self.request.version == 'v2':\n            return AlunoSerializerV2\n        else:\n            return AlunoSerializer    \nclass CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "CursosViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "peekOfCode": "class CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"\n    queryset = Curso.objects.all()\n    serializer_class = CursoSerializer\n    def create(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            response = Response(serializer.data, status=status.HTTP_201_CREATED)\n            id = str(serializer.data['id'])",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "MatriculaViewSet",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "peekOfCode": "class MatriculaViewSet(viewsets.ModelViewSet):\n    \"\"\"Listando todas as matrículas\"\"\"\n    queryset = Matricula.objects.all()\n    serializer_class = MatriculaSerializer\n    http_method_names = ['get', 'post', 'put', 'path']\nclass ListaMatriculasAluno(generics.ListAPIView):\n    \"\"\"Listando as matrículas de um aluno ou aluna\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(aluno_id=self.kwargs['pk'])\n        return queryset",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaMatriculasAluno",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "peekOfCode": "class ListaMatriculasAluno(generics.ListAPIView):\n    \"\"\"Listando as matrículas de um aluno ou aluna\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(aluno_id=self.kwargs['pk'])\n        return queryset\n    serializer_class = ListaMatriculasAlunoSerializer\nclass ListaAlunosMatriculados(generics.ListAPIView):\n    \"\"\"Listando alunos e alunas matriculados em um curso\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(curso_id=self.kwargs['pk'])",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "ListaAlunosMatriculados",
+        "kind": 6,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "description": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "peekOfCode": "class ListaAlunosMatriculados(generics.ListAPIView):\n    \"\"\"Listando alunos e alunas matriculados em um curso\"\"\"\n    def get_queryset(self):\n        queryset = Matricula.objects.filter(curso_id=self.kwargs['pk'])\n        return queryset\n    serializer_class = ListaAlunosMatriculadosSerializer",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.escola.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.asgi",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'we2q@@2p30+=^#(xbgl7e@3+r2dt+zmf#us2m$ix=q&n+=y-z$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "SECRET_KEY = 'we2q@@2p30+=^#(xbgl7e@3+r2dt+zmf#us2m$ix=q&n+=y-z$'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'escola',\n    'corsheaders',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',    \n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "ROOT_URLCONF = 'setup.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'setup.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'pt-br'\nTIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "TIME_ZONE = 'America/Sao_Paulo'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', ",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.0/howto/static-files/\nSTATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nREST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'\n    # ],\n    'DEFAULT_THROTTLE_CLASSES': [\n        'rest_framework.throttling.AnonRateThrottle',",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_VERSIONING_CLASS': 'rest_framework.versioning.QueryParameterVersioning',\n    'DEFAULT_AUTENTICATION_CLASSES': 'rest_framework.authent;ication.BasicAuthentication',\n    # 'DEFAULT_PERMISSION_CLASSES': [\n    #     'rest_framework.permissions.IsAuthenticated', \n    #     'rest_framework.permissions.DjangoModelPermissions'\n    # ],\n    'DEFAULT_THROTTLE_CLASSES': [\n        'rest_framework.throttling.AnonRateThrottle',\n        # 'rest_framework.throttling.UserRateThrottle'",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n]",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.urls",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.urls",
+        "peekOfCode": "router = routers.DefaultRouter()\nrouter.register('alunos', AlunosViewSet, basename='Alunos')\nrouter.register('cursos', CursosViewSet, basename='Cursos')\nrouter.register('matriculas', MatriculaViewSet, basename='Matriculas')\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls) ),\n    path('alunos/<int:pk>/matriculas/', ListaMatriculasAluno.as_view()),\n    path('cursos/<int:pk>/matriculas/', ListaAlunosMatriculados.as_view())\n]",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.urls",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include(router.urls) ),\n    path('alunos/<int:pk>/matriculas/', ListaMatriculasAluno.as_view()),\n    path('cursos/<int:pk>/matriculas/', ListaAlunosMatriculados.as_view())\n]",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.setup.wsgi",
+        "description": "api-django-3-versionamento-cabecalhos-cors.setup.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.setup.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.manage",
+        "description": "api-django-3-versionamento-cabecalhos-cors.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'setup.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.manage",
+        "documentation": {}
+    },
+    {
+        "label": "criando_alunos",
+        "kind": 2,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.seed",
+        "description": "api-django-3-versionamento-cabecalhos-cors.seed",
+        "peekOfCode": "def criando_alunos(quantidade_de_pessoas):\n    fake = Faker('pt_BR')\n    Faker.seed(10)\n    for _ in range(quantidade_de_pessoas):\n        cpf = CPF()\n        nome = fake.name()\n        rg = \"{}{}{}{}\".format(random.randrange(10, 99),random.randrange(100, 999),random.randrange(100, 999),random.randrange(0, 9) ) \n        cpf = cpf.generate()\n        data_nascimento = fake.date_between(start_date='-18y', end_date='today')\n        a = Aluno(nome=nome,rg=rg, cpf=cpf,data_nascimento=data_nascimento)",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.seed",
+        "documentation": {}
+    },
+    {
+        "label": "criando_cursos",
+        "kind": 2,
+        "importPath": "api-django-3-versionamento-cabecalhos-cors.seed",
+        "description": "api-django-3-versionamento-cabecalhos-cors.seed",
+        "peekOfCode": "def criando_cursos(quantidade_de_cursos):\n    fake = Faker('pt_BR')\n    Faker.seed(10)\n    for _ in range(quantidade_de_cursos):\n        codigo_curso = \"{}{}-{}\".format(random.choice(\"ABCDEF\"), random.randrange(10, 99),random.randrange(1, 9))\n        descs = ['Python Fundamentos', 'Python intermediário','Python Avançado', 'Python para Data Science', 'Python/React']\n        descricao = random.choice(descs)\n        descs.remove(descricao)\n        nivel = random.choice(\"BIA\")\n        c = Curso(codigo_curso=codigo_curso,descricao=descricao, nivel=nivel)",
+        "detail": "api-django-3-versionamento-cabecalhos-cors.seed",
+        "documentation": {}
+    }
+]
