@@ -2131,6 +2131,15 @@
         "documentation": {}
     },
     {
+        "label": "LOCALE_PATHS",
+        "kind": 5,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "peekOfCode": "LOCALE_PATHS = (\n    os.path.join(BASE_DIR, 'locale/'),\n)",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
+        "documentation": {}
+    },
+    {
         "label": "router",
         "kind": 5,
         "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.urls",
