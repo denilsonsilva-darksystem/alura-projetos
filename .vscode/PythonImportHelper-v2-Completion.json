@@ -409,6 +409,14 @@
         "documentation": {}
     },
     {
+        "label": "Curso",
+        "importPath": "escola.models",
+        "description": "escola.models",
+        "isExtraImport": true,
+        "detail": "escola.models",
+        "documentation": {}
+    },
+    {
         "label": "Aluno",
         "importPath": "escola.models",
         "description": "escola.models",
@@ -978,6 +986,14 @@
         "documentation": {}
     },
     {
+        "label": "reverse",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
         "label": "path",
         "importPath": "django.urls",
         "description": "django.urls",
@@ -1216,6 +1232,14 @@
         "description": "django.conf.urls.static",
         "isExtraImport": true,
         "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "APITestCase",
+        "importPath": "rest_framework.test",
+        "description": "rest_framework.test",
+        "isExtraImport": true,
+        "detail": "rest_framework.test",
         "documentation": {}
     },
     {
@@ -2164,6 +2188,15 @@
         "description": "api-django-3-testes-seguranca-lapidacoes.setup.wsgi",
         "peekOfCode": "application = get_wsgi_application()",
         "detail": "api-django-3-testes-seguranca-lapidacoes.setup.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "CursosTestCases",
+        "kind": 6,
+        "importPath": "api-django-3-testes-seguranca-lapidacoes.test.tests_cursos",
+        "description": "api-django-3-testes-seguranca-lapidacoes.test.tests_cursos",
+        "peekOfCode": "class CursosTestCases(APITestCase):\n    def setUp(self):\n        self.list_url = reverse('Cursos-list')\n        self.curso_1 = Curso.objects.create(\n            codigo_curso='CT1', descricao='Curso Teste 1', nivel='B'\n        )\n        self.curso_2 = Curso.objects.create(\n            codigo_curso='CT2', descricao='Curso Teste 2', nivel='A'\n        )\n    def test_falhador(self):",
+        "detail": "api-django-3-testes-seguranca-lapidacoes.test.tests_cursos",
         "documentation": {}
     },
     {
