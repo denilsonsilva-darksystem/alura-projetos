@@ -12,7 +12,7 @@ class AlunosViewSet(viewsets.ModelViewSet):
         if self.request.version == 'v2':
             return AlunoSerializerV2
         else:
-            return AlunoSerializer    
+            return AlunoSerializer
 
 class CursosViewSet(viewsets.ModelViewSet):
     """Exibindo todos os cursos"""

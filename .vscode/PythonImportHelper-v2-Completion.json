@@ -1892,7 +1892,7 @@
         "kind": 6,
         "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
         "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
-        "peekOfCode": "class AlunosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os alunos e alunas\"\"\"\n    queryset = Aluno.objects.all()\n    def get_serializer_class(self):\n        if self.request.version == 'v2':\n            return AlunoSerializerV2\n        else:\n            return AlunoSerializer    \nclass CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"",
+        "peekOfCode": "class AlunosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os alunos e alunas\"\"\"\n    queryset = Aluno.objects.all()\n    def get_serializer_class(self):\n        if self.request.version == 'v2':\n            return AlunoSerializerV2\n        else:\n            return AlunoSerializer\nclass CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"",
         "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
         "documentation": {}
     },
@@ -2126,7 +2126,7 @@
         "kind": 5,
         "importPath": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
         "description": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
-        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n]",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",\n]\n# configuration redis\n# CACHES = {\n#     \"default\": {\n#         \"BACKEND\": \"django_redis.cache.RedisCache\",\n#         \"LOCATION\": \"redis://127.0.0.1:6379/1\",\n#         \"OPTIONS\": {\n#             \"CLIENT_CLASS\": \"django_redis.client.DefaultClient\",",
         "detail": "api-django-3-testes-seguranca-lapidacoes.setup.settings",
         "documentation": {}
     },
