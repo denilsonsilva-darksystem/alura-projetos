@@ -1933,7 +1933,7 @@
         "kind": 6,
         "importPath": "api-django-3-testes-seguranca-lapidacoes.escola.views",
         "description": "api-django-3-testes-seguranca-lapidacoes.escola.views",
-        "peekOfCode": "class CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"\n    queryset = Curso.objects.all()\n    serializer_class = CursoSerializer\n    def create(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            response = Response(serializer.data, status=status.HTTP_201_CREATED)\n            id = str(serializer.data['id'])",
+        "peekOfCode": "class CursosViewSet(viewsets.ModelViewSet):\n    \"\"\"Exibindo todos os cursos\"\"\"\n    queryset = Curso.objects.all()\n    serializer_class = CursoSerializer\n    http_method_names = ['get', 'post', 'put', 'path']\n    def create(self, request):\n        serializer = self.serializer_class(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            response = Response(serializer.data, status=status.HTTP_201_CREATED)",
         "detail": "api-django-3-testes-seguranca-lapidacoes.escola.views",
         "documentation": {}
     },
@@ -2203,7 +2203,7 @@
         "kind": 6,
         "importPath": "api-django-3-testes-seguranca-lapidacoes.test.tests_cursos",
         "description": "api-django-3-testes-seguranca-lapidacoes.test.tests_cursos",
-        "peekOfCode": "class CursosTestCases(APITestCase):\n    def setUp(self):\n        self.list_url = reverse('Cursos-list')\n        self.curso_1 = Curso.objects.create(\n            codigo_curso='CT1', descricao='Curso Teste 1', nivel='B'\n        )\n        self.curso_2 = Curso.objects.create(\n            codigo_curso='CT2', descricao='Curso Teste 2', nivel='A'\n        )\n    # def test_falhador(self):",
+        "peekOfCode": "class CursosTestCases(APITestCase):\n    def setUp(self):\n        self.list_url = reverse('Cursos-list')\n        self.curso_1 = Curso.objects.create(\n            codigo_curso='CTT1', descricao='Curso Teste 1', nivel='B'\n        )\n        self.curso_2 = Curso.objects.create(\n            codigo_curso='CTT2', descricao='Curso Teste 2', nivel='A'\n        )\n    # def test_falhador(self):",
         "detail": "api-django-3-testes-seguranca-lapidacoes.test.tests_cursos",
         "documentation": {}
     },
